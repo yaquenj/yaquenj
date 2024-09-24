@@ -24,12 +24,12 @@
   </a>
 </p>
 
+<!--profile rating
 <h3 align="center">My GitHub profile stats:</h3>
-<!--profile rating-->
 <div align="center">
 	<img src="https://github-readme-stats.vercel.app/api/?username=yaquenj&show_icons=true&theme=radical">
 </div>
-
+-->
 <h3 align="center">Most used languages:</h3>
 <!--activity wakatime-->
 <div align="center">
