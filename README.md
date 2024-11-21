@@ -16,11 +16,11 @@
 <p align="center">📫 You can reach me on <a target="_blank" href="https://discord.com/users/780475905066926111">Discord</a> / <a target="_blank" href="https://t.me/yaquenj">Telegram</a> or my <a target="_blank" href="mailto:yaquenjs@gmail.com">email address</a></p>
 <hr>
 
-<h3 align="center">My skills:</h3>
+<h3 align="center">Languages, tools and skills:</h3>
 <!--lang icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,nodejs,js,ts,html,css,discordjs,mongodb&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=bun,nodejs,js,ts,html,css,sass,discordjs,react,mongodb,mysql,npm,pnpm,vscode,postman,raspberrypi,ubuntu,windows&theme=dark&perline=9" />
   </a>
 </p>
 
