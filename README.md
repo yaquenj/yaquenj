@@ -20,7 +20,7 @@
 <!--lang icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bun,nodejs,js,ts,html,css,sass,discordjs,react,mongodb,mysql,npm,pnpm,vscode,postman,raspberrypi,ubuntu,prisma&theme=dark&perline=9" />
+    <img src="https://skillicons.dev/icons?i=bun,nodejs,js,ts,html,css,sass,discordjs,react,mongodb,mysql,npm,pnpm,idea,postman,raspberrypi,ubuntu,prisma&theme=dark&perline=9" />
   </a>
 </p>
 
